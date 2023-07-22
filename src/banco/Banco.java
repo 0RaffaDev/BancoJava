@@ -22,7 +22,7 @@ public class Banco {
         
         System.out.println("Banco Milloneta");
         System.out.println("MENU:\n1.Consultar Saldo\n2.Ingresar Dinero\n3.Retirar Dinero\n4.Extraccion Rapida\n5.Mi Cuenta");
-        int op = sc.nextInt();https://github.com/0RaffaDev/BancoJava.git
+        int op = sc.nextInt();
         switch(op){
             case 1:
                 break;
